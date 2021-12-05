@@ -10,7 +10,10 @@ public class GorillaTest {
 		winston.displayEnergy();
 		
 		winston.throwSomething();
+		winston.throwSomething();
+		winston.throwSomething();
 		winston.displayEnergy();
+		winston.eatBananas();
 		winston.eatBananas();
 		winston.climb();
 		winston.displayEnergy();
